@@ -1,0 +1,9 @@
+C:\JnJ\Projects\Theory\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.exe.config
+C:\JnJ\Projects\Theory\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.csprojResolveAssemblyReference.cache
+C:\JnJ\Projects\Theory\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.exe
+C:\JnJ\Projects\Theory\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.pdb
+C:\JnJ\Projects\Theory\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.exe
+C:\JnJ\Projects\Theory\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.pdb
+C:\git\Samples\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.exe.config
+C:\git\Samples\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.exe
+C:\git\Samples\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.pdb

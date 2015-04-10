@@ -1,0 +1,16 @@
+C:\JnJ\Projects\Theory\AsyncSample\bin\Debug\AsyncSample.exe.config
+C:\JnJ\Projects\Theory\AsyncSample\bin\Debug\AsyncSample.exe
+C:\JnJ\Projects\Theory\AsyncSample\bin\Debug\AsyncSample.pdb
+C:\JnJ\Projects\Theory\AsyncSample\obj\Debug\AsyncSample.csprojResolveAssemblyReference.cache
+C:\JnJ\Projects\Theory\AsyncSample\obj\Debug\MainWindow.baml
+C:\JnJ\Projects\Theory\AsyncSample\obj\Debug\MainWindow.g.cs
+C:\JnJ\Projects\Theory\AsyncSample\obj\Debug\App.g.cs
+C:\JnJ\Projects\Theory\AsyncSample\obj\Debug\AsyncSample_MarkupCompile.cache
+C:\JnJ\Projects\Theory\AsyncSample\obj\Debug\AsyncSample.g.resources
+C:\JnJ\Projects\Theory\AsyncSample\obj\Debug\AsyncSample.Properties.Resources.resources
+C:\JnJ\Projects\Theory\AsyncSample\obj\Debug\AsyncSample.csproj.GenerateResource.Cache
+C:\JnJ\Projects\Theory\AsyncSample\obj\Debug\AsyncSample.exe
+C:\JnJ\Projects\Theory\AsyncSample\obj\Debug\AsyncSample.pdb
+C:\git\Samples\AsyncSample\bin\Debug\AsyncSample.exe.config
+C:\git\Samples\AsyncSample\obj\Debug\AsyncSample.exe
+C:\git\Samples\AsyncSample\obj\Debug\AsyncSample.pdb
