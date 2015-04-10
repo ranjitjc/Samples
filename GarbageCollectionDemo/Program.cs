@@ -9,16 +9,17 @@ namespace GarbageCollectionDemo
     {
         static void Main(string[] args)
         {
-           /* A a = new A();
+            A a = new A();
             C b = new C();
             GC.Collect();
             a = null;
             GC.Collect();
             b.Dispose();
+            //Following code will not work bcs b is already disposed.
             //b.DoSomeWork();
             GC.Collect();
             Console.WriteLine("\n\n");
-            */
+            
 
             using (C b1 = new C())
             {
